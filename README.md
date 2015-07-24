@@ -9,4 +9,4 @@ For each mixtape string `"<mixtape>"`, there is a file `mix/<mixtape>.json`, whi
 
 *   `"name"`: the mixtape's name, as listed on the blog.
 
-When a pair is missing from the object, it means the information is currently unknown. Merge requests welcome.
+When a pair is missing from the object, it means the information is currently unknown. Pull requests welcome.
