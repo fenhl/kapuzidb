@@ -10,6 +10,6 @@ For each mixtape string `"<mixtape>"`, there is a file `mix/<mixtape>.json`, whi
 *   `"date"`: date of publication, in `YYYY-MM-DD` format.
 *   `"name"`: the mixtape's name, as listed on the blog.
 *   `"time"`: UTC time of publication, in `HH:MM` or `HH:MM:SS` format.
-*   `"url:`: HTTP URL to the track on SoundCloud.
+*   `"url"`: HTTP URL to the track on [hearthis.at](https://hearthis.at/).
 
 When a pair is missing from the object, it means the information is currently unknown. Pull requests welcome.
